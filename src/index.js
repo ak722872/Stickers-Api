@@ -134,7 +134,7 @@ app.get("/stickers",(req,res)=>{
                     ]
                   },
                   {
-                    "image_file": "happy1.webp",
+                    "image_file": "happy3.webp",
                     "emojis": [
                       "🥰",
                       "😘",
@@ -164,6 +164,10 @@ app.get("/files",(req,res) => {
         {
           file_name:"happy.webp",
           file_url:"https://firebasestorage.googleapis.com/v0/b/napp-85c0c.appspot.com/o/happy.webp?alt=media&token=25a043d6-b29d-4c5b-9818-87a4f7585f0a"
+        },
+        {
+          file_name:"happy3.webp",
+          file_url:"https://firebasestorage.googleapis.com/v0/b/napp-85c0c.appspot.com/o/happy3.webp?alt=media&token=b5c0d0f5-b271-4ff6-bdc6-2c731a958899"
         }
       ]
     )
