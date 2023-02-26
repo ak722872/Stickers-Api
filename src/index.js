@@ -105,7 +105,7 @@ app.get("/stickers",(req,res)=>{
               },
 
               {
-                "identifier": "2",
+                "identifier": "3",
                 "name": "Testing2",
                 "publisher": "Tester",
                 "tray_image_file": "happy.webp",
