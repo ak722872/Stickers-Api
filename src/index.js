@@ -134,7 +134,7 @@ app.get("/stickers",(req,res)=>{
                     ]
                   },
                   {
-                    "image_file": "happy3.webp",
+                    "image_file": "happy1.webp",
                     "emojis": [
                       "🥰",
                       "😘",
@@ -142,7 +142,7 @@ app.get("/stickers",(req,res)=>{
                     ]
                   },
                   {
-                    "image_file": "happy3.webp",
+                    "image_file": "happy1.webp",
                     "emojis": [
                       "🥰",
                       "😘",
@@ -150,7 +150,7 @@ app.get("/stickers",(req,res)=>{
                     ]
                   },
                   {
-                    "image_file": "happy3.webp",
+                    "image_file": "happy1.webp",
                     "emojis": [
                       "🥰",
                       "😘",
